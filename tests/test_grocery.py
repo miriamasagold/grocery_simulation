@@ -2,7 +2,8 @@
 
 # Store dynamics
 def always_pass():
-    assert True
+    assert "abc".upper() == "ABC"
+
 ## Greater or equal registers than employees
 ## Fewer registers than employees
 
