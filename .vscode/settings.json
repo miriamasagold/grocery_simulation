@@ -3,5 +3,6 @@
         "tests/"
     ],
     "python.testing.unittestEnabled": false,
+    "autoTestDiscoverOnSaveEnabled": true,
     "python.testing.pytestEnabled": true
 }

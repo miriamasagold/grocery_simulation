@@ -1,8 +1,10 @@
+
+def always_fail():
+    assert "abc".upper() == "ABC"
+always_fail()
 # Basic Class behaviors
 
 # Store dynamics
-def always_pass():
-    assert "abc".upper() == "ABC"
 
 ## Greater or equal registers than employees
 ## Fewer registers than employees
