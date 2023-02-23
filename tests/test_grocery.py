@@ -1,7 +1,13 @@
+import helpers.grocery_class as grocery_class
 
-def always_fail():
-    assert "abc".upper() == "ABC"
-always_fail()
+def increment(x):
+    return x + 1
+
+def test_increment():
+    assert increment(3) == 4
+
+# This test is designed to fail for demonstration purposes.
+
 # Basic Class behaviors
 
 # Store dynamics
