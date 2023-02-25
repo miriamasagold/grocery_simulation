@@ -1,4 +1,4 @@
-import helpers.grocery_class as grocery_class
+import grocercleveland.grocery_class as grocery_class
 
 def increment(x):
     return x + 1
